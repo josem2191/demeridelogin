@@ -1,0 +1,6 @@
+body {
+    background: white;
+    background: linear-gradient(to right, white, yellow);
+    background-image: "/src/app/Images/Base.png";
+  }
+  
